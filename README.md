@@ -11,10 +11,10 @@ A small Python program that checks voter eligibility based on:
 3. Answer the questions in the console.
 
 ## Example
-**Eligible voter**
-Are you a Canadian citizen? yes
-Are you a resident of Alberta? yes
-What is the month of your birth date? July
-What is the day of your birth date? 18
-What is the year of your birth date? 2000
-You are eligible to vote.
+**Eligible voter**  
+Are you a Canadian citizen? Yes  
+Are you a resident of Alberta? yes  
+What is the month of your birth date? July  
+What is the day of your birth date? 18  
+What is the year of your birth date? 2000  
+You are eligible to vote.  
